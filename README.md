@@ -37,8 +37,8 @@ The Waste Classification System is a deep learning web application that identifi
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/waste-classifier.git
-cd waste-classifier
+git clone https://github.com/Bittu-kumar143/wastesegregation_ai-ml_project.git
+cd wastesegregation_ai-ml_project
 
 # 2. Create and activate a virtual environment (recommended)
 python -m venv venv
